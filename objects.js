@@ -1,2 +1,4 @@
 var playlist = { 
-  Coldplay: "The Scientist"
+  Coldplay: "The Scientist",
+  Drake: "In My Feels",
+  Migos: "Narcos",
