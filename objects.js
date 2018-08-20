@@ -4,7 +4,6 @@ var playlist = {
   Migos: "Narcos"
 }
 
-function updatePlaylist(object, )
-{
+function updatePlaylist(playlist, artistName, songTitle){
   
 }
