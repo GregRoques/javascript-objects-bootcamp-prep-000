@@ -3,3 +3,4 @@ var meals = {
   lunch: "pb&j";
   dinner: "french fries";
 };
+return meals;
