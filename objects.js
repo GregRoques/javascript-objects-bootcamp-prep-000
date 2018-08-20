@@ -1,1 +1,2 @@
-var playlist = { Coldplay: "The Scientist"
+var playlist = { 
+  Coldplay: "The Scientist"
